@@ -1,6 +1,6 @@
 # jans-el.dk
 
-One page homepage created for jans-el.dk.
+One pager marketing site created for jans-el.dk.
 
 ## Deployment
 

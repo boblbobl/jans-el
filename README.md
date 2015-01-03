@@ -2,7 +2,7 @@
 
 One pager marketing site created for jans-el.dk.
 
-## Deployment
+## How to Deploy using Git
 
 Make sure VPS repo is added as a remote:
 
